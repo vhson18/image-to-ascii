@@ -29,3 +29,4 @@ ascii_image = "\n".join(ascii_image)
 
 with open("D:\\codes lmao\\learning 1\\learning ever single things ever\\image to ascii\\ascii_image.txt", "w") as f:
   f.write(ascii_image)
+#finnny 
